@@ -21,3 +21,19 @@ Titanic
 Ghostbusters
 James Bond
 Bill and Ted's Excellent Adventure
+The Matrix
+Terminator
+Indiana Jones
+Alien
+WALL-E
+Braveheart
+Up
+Toy Story
+Frozen
+Monty Python and the Holy Grail
+V for Vendetta
+Watchmen
+Ratatouille
+Cars
+Jurassic Park
+Harry Potter
